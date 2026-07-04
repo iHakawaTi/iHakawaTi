@@ -27,7 +27,7 @@
 
 > **3rd-year Data Science & AI student** at **Applied Science Private University** with a relentless obsession for deep learning and building intelligent systems that solve real problems. I've won multiple first-place awards in programming, ML, and computer vision competitions across universities.
 
-- Founder of **[Quinx](https://github.com/iHakawaTi)** — a competitive team dominating across programming, ML, computer vision & hackathons
+- Founder of **[Quinx](https://github.com/iHakawaTi)** - a competitive team dominating across programming, ML, computer vision & hackathons
 - Multiple **1st Place Wins** in JPC7 Programming, Inter-University ML Contests, CV Competition, AI Hackathon
 - **35+ Professional Certifications** from DeepLearning.AI, Google, DataCamp, SHAI For AI & more
 - Currently focused on **Deep Learning, LLMs, Transformers, Computer Vision, Cloud (AWS & GCP), and Automation**
